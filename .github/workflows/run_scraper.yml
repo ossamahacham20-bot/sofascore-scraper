@@ -1,0 +1,33 @@
+name: SofaScore Scraper Auto Run
+
+on:
+  schedule:
+    - cron: "0 0 */3 * *"  # ogni 3 giorni alle 00:00 UTC
+  workflow_dispatch:         # puoi anche avviarlo manualmente
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clona repository
+        uses: actions/checkout@v4
+
+      - name: Installa Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installa dipendenze
+        run: |
+          pip install playwright requests
+          playwright install chromium
+
+      - name: Esegui scraper
+        run: python sofascore_scraper.py
+
+      - name: Salva risultati come artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: sofascore_dumps
+          path: dumps/
