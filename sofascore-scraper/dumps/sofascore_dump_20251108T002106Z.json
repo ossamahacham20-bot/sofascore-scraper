@@ -1,0 +1,1113 @@
+{
+  "scrape_time_utc": "2025-11-08T01:18:42.270968",
+  "today": [
+    {
+      "date": "2025-11-08",
+      "time_start": "15:00",
+      "home": "Como",
+      "away": "Cagliari",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "15:00",
+      "home": "Lecce",
+      "away": "Verona",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "18:00",
+      "home": "Juventus",
+      "away": "Torino",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "20:45",
+      "home": "Parma",
+      "away": "Milan",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "15:00",
+      "home": "Empoli",
+      "away": "Catanzaro",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "15:00",
+      "home": "Frosinone",
+      "away": "Modena",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "15:00",
+      "home": "Mantova",
+      "away": "Padova",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "15:00",
+      "home": "Reggiana",
+      "away": "Entella",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "15:00",
+      "home": "Südtirol",
+      "away": "Carrarese",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "17:15",
+      "home": "Juve Stabia",
+      "away": "Palermo",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "19:30",
+      "home": "Venezia",
+      "away": "Sampdoria",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "13:30",
+      "home": "Tottenham",
+      "away": "Man Utd",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "16:00",
+      "home": "Everton",
+      "away": "Fulham",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "16:00",
+      "home": "West Ham",
+      "away": "Burnley",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "18:30",
+      "home": "Sunderland",
+      "away": "Arsenal",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "21:00",
+      "home": "Chelsea",
+      "away": "Wolves",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "14:00",
+      "home": "Girona",
+      "away": "Alavés",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "16:15",
+      "home": "Sevilla",
+      "away": "Osasuna",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "18:30",
+      "home": "Atl. Madrid",
+      "away": "Levante",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "21:00",
+      "home": "Espanyol",
+      "away": "Villarreal",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "15:30",
+      "home": "Union Berlin",
+      "away": "Bayern",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "15:30",
+      "home": "Leverkusen",
+      "away": "Heidenheim",
+      "score": "-"
+    },
+    {
+      "date": "2025-11-08",
+      "time_start": "15:30",
+      "home": "HSV",
+      "away": "Dortmund",
+      "score": "-"
+    }
+  ],
+  "next_7_days": [
+    {
+      "date": "2025-11-09",
+      "matches": [
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Atalanta",
+          "away": "Sassuolo",
+          "score": "12:30"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Bologna",
+          "away": "Napoli",
+          "score": "15:00"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Genoa",
+          "away": "Fiorentina",
+          "score": "15:00"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Roma",
+          "away": "Udinese",
+          "score": "18:00"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Inter",
+          "away": "Lazio",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Cesena",
+          "away": "Avellino",
+          "score": "15:00"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Pescara",
+          "away": "Monza",
+          "score": "17:15"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Aston Villa",
+          "away": "Bournemouth",
+          "score": "15:00"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Brentford",
+          "away": "Newcastle",
+          "score": "15:00"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Crystal Palace",
+          "away": "Brighton",
+          "score": "15:00"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Forest",
+          "away": "Leeds",
+          "score": "15:00"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Man City",
+          "away": "Liverpool",
+          "score": "17:30"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Athletic Club",
+          "away": "Real Oviedo",
+          "score": "14:00"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Rayo Vallecano",
+          "away": "Real Madrid",
+          "score": "16:15"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Mallorca",
+          "away": "Getafe",
+          "score": "18:30"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Valencia",
+          "away": "Real Betis",
+          "score": "18:30"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Celta",
+          "away": "Barcelona",
+          "score": "21:00"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Freiburg",
+          "away": "St. Pauli",
+          "score": "15:30"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Stuttgart",
+          "away": "Augsburg",
+          "score": "17:30"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Frankfurt",
+          "away": "Mainz 05",
+          "score": "19:30"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Lorient",
+          "away": "Toulouse",
+          "score": "15:00"
+        },
+        {
+          "date": "2025-11-09",
+          "time_start": "09/11/25",
+          "home": "Angers",
+          "away": "Auxerre",
+          "score": "17:15"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "matches": [
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "Fortaleza",
+          "away": "Grêmio",
+          "score": "00:30"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "Mirassol",
+          "away": "Palmeiras",
+          "score": "00:30"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "Santos",
+          "away": "Pachuca",
+          "score": "00:00"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "San Diego FC",
+          "away": "Portland",
+          "score": "03:00"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "Burgos",
+          "away": "Castellón",
+          "score": "20:30"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "Paysandu",
+          "away": "Coritiba",
+          "score": "00:30"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "Botafogo-SP",
+          "away": "Amazonas",
+          "score": "23:00"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "Chapecoense",
+          "away": "América-MG",
+          "score": "23:00"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "Egypt U17",
+          "away": "England U17",
+          "score": "16:45"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "Venezuela U17",
+          "away": "Haiti U17",
+          "score": "16:45"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "South Korea U17",
+          "away": "Côte d'Ivoire U17",
+          "score": "13:30"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "Switzerland U17",
+          "away": "Mexico U17",
+          "score": "13:30"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "Colombia U17",
+          "away": "North Korea U17",
+          "score": "14:30"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "El Salvador U17",
+          "away": "Germany U17",
+          "score": "14:30"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "Honduras U17",
+          "away": "Indonesia U17",
+          "score": "15:45"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "Zambia U17",
+          "away": "Brazil U17",
+          "score": "15:45"
+        },
+        {
+          "date": "2025-11-10",
+          "time_start": "10/11/25",
+          "home": "Cobresal",
+          "away": "Everton",
+          "score": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "matches": [
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Roma",
+          "away": "Vålerenga",
+          "score": "18:45"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Lyonnes",
+          "away": "Wolfsburg",
+          "score": "21:00"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Real Madrid",
+          "away": "Paris",
+          "score": "21:00"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "St. Pölten",
+          "away": "Chelsea",
+          "score": "21:00"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Burkina Faso U17",
+          "away": "Tajikistan U17",
+          "score": "15:45"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Czechia U17",
+          "away": "USA U17",
+          "score": "15:45"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Ireland U17",
+          "away": "Paraguay U17",
+          "score": "14:30"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Uzbekistan U17",
+          "away": "Panama U17",
+          "score": "14:30"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Chile U17",
+          "away": "Canada U17",
+          "score": "13:30"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Uganda U17",
+          "away": "France U17",
+          "score": "13:30"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "New Zealand U17",
+          "away": "Austria U17",
+          "score": "16:45"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Saudi Arabia U17",
+          "away": "Mali U17",
+          "score": "16:45"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Salford",
+          "away": "Wolves U21",
+          "score": "20:00"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Stockport County",
+          "away": "Wigan",
+          "score": "20:00"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Tranmere",
+          "away": "Blackpool",
+          "score": "20:00"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Doncaster",
+          "away": "Bradford",
+          "score": "20:00"
+        },
+        {
+          "date": "2025-11-11",
+          "time_start": "11/11/25",
+          "home": "Barnsley",
+          "away": "Lincoln",
+          "score": "20:00"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-12",
+      "matches": [
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Bayern",
+          "away": "Arsenal",
+          "score": "18:45"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "FC Barcelona",
+          "away": "OH Leuven",
+          "score": "18:45"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Benfica",
+          "away": "FC Twente",
+          "score": "21:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Atlético de Madrid",
+          "away": "Juventus",
+          "score": "21:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Man Utd",
+          "away": "PSG",
+          "score": "21:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Boyacá Chicó",
+          "away": "Millonarios",
+          "score": "22:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Dep. Cali",
+          "away": "Once Caldas",
+          "score": "22:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "La Equidad",
+          "away": "Deportivo Pereira",
+          "score": "22:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Dep. Pasto",
+          "away": "Bucaramanga",
+          "score": "22:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Ind. Medellín",
+          "away": "América",
+          "score": "22:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Santa Fe",
+          "away": "Alianza Valledupar",
+          "score": "22:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Junior Barranquilla",
+          "away": "Atl. Nacional",
+          "score": "22:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Llaneros",
+          "away": "Envigado",
+          "score": "22:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Águilas Doradas",
+          "away": "Tolima",
+          "score": "22:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Unión Magdalena",
+          "away": "Fortaleza",
+          "score": "22:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Ispe FC",
+          "away": "NTV Tokyo Beleza",
+          "score": "09:30"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Naegohyang",
+          "away": "Suwon",
+          "score": "13:30"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "FK Slonim",
+          "away": "Neman",
+          "score": "12:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Borac",
+          "away": "Zrinjski",
+          "score": "18:00"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Internacional",
+          "away": "Huila",
+          "score": "00:10"
+        },
+        {
+          "date": "2025-11-12",
+          "time_start": "12/11/25",
+          "home": "Boca Juniors",
+          "away": "Patriotas",
+          "score": "02:20"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-13",
+      "matches": [
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "Azerbaijan",
+          "away": "Iceland",
+          "score": "18:00"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "France",
+          "away": "Ukraine",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "Armenia",
+          "away": "Hungary",
+          "score": "18:00"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "Ireland",
+          "away": "Portugal",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "Norway",
+          "away": "Estonia",
+          "score": "18:00"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "Moldova",
+          "away": "Italy",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "Andorra",
+          "away": "Albania",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "England",
+          "away": "Serbia",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "Atlético-MG",
+          "away": "Fortaleza",
+          "score": "00:30"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "Czechia",
+          "away": "San Marino",
+          "score": "18:00"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "Lithuania",
+          "away": "Israel",
+          "score": "18:00"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "North Macedonia",
+          "away": "Latvia",
+          "score": "18:00"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "UAE",
+          "away": "Iraq",
+          "score": "17:00"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "Melbourne City",
+          "away": "Lion City Sailors",
+          "score": "09:00"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "Hồ Chí Minh",
+          "away": "Stallion Laguna",
+          "score": "13:00"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "Real Cartagena",
+          "away": "Real Cundinamarca",
+          "score": "00:10"
+        },
+        {
+          "date": "2025-11-13",
+          "time_start": "13/11/25",
+          "home": "Luxembourg U21",
+          "away": "Iceland U21",
+          "score": "19:30"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "matches": [
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "Luxembourg",
+          "away": "Germany",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "Slovakia",
+          "away": "Northern Ireland",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "Finland",
+          "away": "Malta",
+          "score": "18:00"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "Poland",
+          "away": "Netherlands",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "Croatia",
+          "away": "Faroe Islands",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "Gibraltar",
+          "away": "Montenegro",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "Real Valladolid",
+          "away": "Las Palmas",
+          "score": "20:30"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "Santa Fe",
+          "away": "Alianza Valledupar",
+          "score": "01:00"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "Adelaide United",
+          "away": "Canberra United",
+          "score": "09:00"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "Deportivo",
+          "away": "Levante UD",
+          "score": "19:30"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "Marchfeld Donauauen",
+          "away": "Parndorf",
+          "score": "19:00"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "Neusiedl",
+          "away": "FCM Traiskirchen",
+          "score": "19:00"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "Oberwart",
+          "away": "Viktoria",
+          "score": "19:30"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "TWL Elektra",
+          "away": "Donaufeld",
+          "score": "19:30"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "HIK",
+          "away": "Vendsyssel FF",
+          "score": "18:00"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "FC Helsingør",
+          "away": "AB",
+          "score": "19:00"
+        },
+        {
+          "date": "2025-11-14",
+          "time_start": "14/11/25",
+          "home": "Fremad Amager",
+          "away": "Skive",
+          "score": "19:00"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-15",
+      "matches": [
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Slovenia",
+          "away": "Kosovo",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Switzerland",
+          "away": "Sweden",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Denmark",
+          "away": "Belarus",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Greece",
+          "away": "Scotland",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Georgia",
+          "away": "Spain",
+          "score": "18:00"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Türkiye",
+          "away": "Bulgaria",
+          "score": "18:00"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Cyprus",
+          "away": "Austria",
+          "score": "18:00"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "BiH",
+          "away": "Romania",
+          "score": "20:45"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Kazakhstan",
+          "away": "Belgium",
+          "score": "15:00"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Liechtenstein",
+          "away": "Wales",
+          "score": "18:00"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Sport",
+          "away": "Flamengo",
+          "score": "22:30"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Albacete",
+          "away": "FC Andorra",
+          "score": "16:00"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Castellón",
+          "away": "Real Sociedad B U21",
+          "score": "16:00"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "R. Racing Club",
+          "away": "Granada",
+          "score": "21:00"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Paysandu",
+          "away": "Amazonas",
+          "score": "00:00"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Atlético-GO",
+          "away": "Operário-PR",
+          "score": "20:30"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Avaí",
+          "away": "Remo",
+          "score": "20:30"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "Coritiba",
+          "away": "Athletic",
+          "score": "20:30"
+        },
+        {
+          "date": "2025-11-15",
+          "time_start": "15/11/25",
+          "home": "CRB",
+          "away": "Vila Nova",
+          "score": "20:30"
+        }
+      ]
+    }
+  ]
+}
