@@ -7,7 +7,7 @@ from playwright.sync_api import sync_playwright
 import os
 
 # --- CONFIGURAZIONE ---
-API_ENDPOINT = "https://www.aibetinsight.it/scommetti"
+API_ENDPOINT = "https://lrtvviiakpvqcugkfzef.supabase.co/functions/v1/receive-matches"
 LOG_FILE = "sofascore_scraper.log"
 DUMP_DIR = "./dumps"
 
@@ -130,3 +130,4 @@ if __name__ == "__main__":
     save_dump(data)
     post_payload(data)
     logging.info("Fine scraping")
+
