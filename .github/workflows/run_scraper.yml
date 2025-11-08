@@ -24,10 +24,10 @@ jobs:
           playwright install chromium
 
       - name: Esegui scraper
-        run: python sofascore_scraper.py
+        run: python sofascore-scraper/scrape_sofascore.py
 
       - name: Salva risultati come artifact
         uses: actions/upload-artifact@v4
         with:
           name: sofascore_dumps
-          path: dumps/
+          path: sofascore-scraper/dumps/
